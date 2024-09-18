@@ -1,6 +1,7 @@
 [![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)](https://www.linkedin.com/in/muhammad-raees-ul-zaman)
 <h1 align="center">Hi 👋, I'm Raees</h1>
-<h3 align="center">Computer Science and Information Technology</h3>
+<h3 align="center">🔍 Turning Data into Insights | Passionate about Data-Driven Decisions & Innovation 💡
+</h3>
 <img align="right" alt="mern coding HQ." width="300" src="https://cdn.dribbble.com/users/2243198/screenshots/5791691/anim-5-800.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raeeszaman44&label=Profile%20views&color=0e75b6&style=flat" alt="raeeszaman44" /> </p>
 
